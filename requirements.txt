@@ -1,0 +1,14 @@
+cycler==0.10.0
+future==0.18.2
+kiwisolver==1.2.0
+matplotlib==3.2.1
+numpy==1.18.4
+Pillow==7.1.2
+pkg-resources==0.0.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+-e git+https://github.com/mwickert/scikit-dsp-comm.git@1bec921a1c7e0b442b4d8f181c99078e8928ddc7#egg=scikit-dsp-comm
+scipy==1.4.1
+six==1.14.0
+torch==1.5.0+cu101
+torchvision==0.6.0+cu101
