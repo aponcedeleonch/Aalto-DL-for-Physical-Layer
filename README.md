@@ -15,3 +15,11 @@ comparison_channel_nochannel.ipynb – Notebook focused on comparing last two ap
 - `utils.py` – Miscellaneous functions used for e.g. plotting
 - `comms_utils.py` – Miscellaneous used for simulating communication with BPSK and Hamming encoding
 - `trained_models/*` - Pre-trained Pytorch models
+
+### To build
+
+Python 3 is required
+
+```sh
+pip install -r requirements.txt
+```
